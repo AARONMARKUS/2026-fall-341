@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="1-rXiyenN8GENlX1NkGM">
+    <mxGraphModel dx="678" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1V3PSmrhFuOwZc5gFSYi-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;strokeColor=#3730FF;" value="Oval" vertex="1">
+          <mxGeometry height="80" width="120" x="210" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="1V3PSmrhFuOwZc5gFSYi-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeColor=#3730FF;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="350" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="1V3PSmrhFuOwZc5gFSYi-4" parent="1" style="triangle;whiteSpace=wrap;html=1;shapeInside=1;fillColor=none;strokeColor=#3730FF;" value="" vertex="1">
+          <mxGeometry height="80" width="60" x="500" y="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
